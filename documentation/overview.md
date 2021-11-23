@@ -40,14 +40,11 @@
 2. **Operable** = Interact via mouse, keyboard, touch or voice
 1. **Understandable** = Cognitively clear and simple
 4. **Robust** = Adaptable to scenarios like zoom
-5. **Conformance** = Xxxxx
+5. **Conformance** = Adhering to WCAG standards (like 2.1)
 
 ## Normative vs Non-normative
 
-### Normative
-Actions that fall inside the bounds of laws and regulations
-
-### Non-normative
-Actions that violate and fall outside the bounds of laws and regulations.
++ **Normative** = Actions that fall **inside** the bounds of laws and regulations
++ **Non-normative** = Actions that **violate** and fall **outside** the bounds of laws and regulations.
 
 
