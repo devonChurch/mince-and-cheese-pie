@@ -12,6 +12,8 @@ Label tables with a `<caption />` element.
 </table>
 ```
 
+---
+
 ## Name specificity
 
 The name of an element that is surfaced to users of different disabilities follow a hierarchy.
@@ -76,5 +78,13 @@ Voice over MacOS & Number Input
 4. **Additional instructions** To being interacting with this stepper ....
 
 ![information step 2](https://user-images.githubusercontent.com/15273233/142827803-e44943c2-9148-47bf-8eb0-f88a0181b58f.png)
+
+
+
+---
+## Aria Label
+
+Translation services (like Google Translate) may not transform content in `aria-label`
++ [See here for explaination](https://inclusive-components.design/notifications/) *(search for aria-label)*
 
 

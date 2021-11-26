@@ -33,6 +33,7 @@
 + [ID24](https://www.youtube.com/c/InclusiveDesign24/videos) = A bunch of 1 hour long videos of A11y on the web
 + [Inclusive Components](https://inclusive-components.design/) = Accessible UX patterns
 + [100 Days of A11y](https://100daysofa11y.com/2020/05/) = The experience of studying for the WAS certification 
++ [Accessibility browser support](https://html5accessibility.com/)
 
 ## WCAG Principles
 
