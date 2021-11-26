@@ -72,3 +72,54 @@ Custom UX
 Screen Readers
 + Not just for blind users, low vision users can benefit from screen readers too!
 
+---
+
+## Color blind
+
+--> A more inclusive term is **Color Vision Deficiency *(CVD)***
+
+**Colors (especially with similar saturation or luminosity) can be hard to distinguish.**
++ Red / Green (99% or color vision issues)
++ Red / Black
++ Blue / Yellow
+
+Green and Red are often hard to differentiate, yet are very common UX patterns:
++ Success / Error
++ Online / Offline
++ Profit / Loss
+
+Color alone, should not be used to convey information. Combine with:
++ Text
++ Icons
+
+3rd party tooling?
++ Noting on the web can reverse color blind issues
++ There are special glasses that can help individuals improve their issues
+
+---
+
+## Deaf
+
+The accessibility of **Audio** (and Video).
+
+Audio files (no video)
++ **Transcript** (plain text summary) of narration, dialogue and sound effects.
++ *MUST!*
+
+Video files
++ **Captions** (played in sync with the video)
+  + [See an example of captions here](https://www.youtube.com/watch?v=ZpGLy-FyOc0)
+  + *MUST!*
+
++ **Sign language interpretation**
+  + allows deaf people (who can communicate through Sign language) to follow along without captions
+
+---
+
+## Deafblind
+
+Users connect Screen Readers to Braille devices (which raise physical bumps rather then read content allowed)
+
+Audio and Video files
++ **Transcript**
+  + A transcript for helps users digest content at their own pace (video captions are too fast for Braille readers)
