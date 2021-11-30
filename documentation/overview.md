@@ -34,6 +34,7 @@
 + [Inclusive Components](https://inclusive-components.design/) = Accessible UX patterns
 + [100 Days of A11y](https://100daysofa11y.com/2020/05/) = The experience of studying for the WAS certification 
 + [Accessibility browser support](https://html5accessibility.com/)
++ [Adrian Roselli | Accessibility patterns](https://adrianroselli.com/)
 
 ## WCAG Principles
 
