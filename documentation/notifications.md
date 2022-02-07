@@ -6,7 +6,11 @@ Live regions will announce themselves even then the tab is not active
 + Is this true? <-- will need to test
 
 
-## Consistent Location
+## Location
+Toasts should inject into the DOM at a consistent location
++ Adding toast in multiple locations (top left -vs- bottom right) breaks the WCAG consistently rule
+  + Familiarity
+  + [See here for more details](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
 
 
 ## Focus / Priority

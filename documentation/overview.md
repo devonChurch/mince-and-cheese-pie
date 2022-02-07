@@ -53,3 +53,7 @@
 
 ### A11y Camp 2021
 + ✅ [Russ Weakley - Everything you ever wanted to know about the accessibility tree](https://www.youtube.com/watch?v=Kv2l_u4NDB8&list=PLuWM-v_C0DZQnQbQYWLBnFvhydqHE-6lT&index=14)
+
+### Google Developers
++ [Build user-adaptive interfaces](https://www.youtube.com/watch?v=865olcAfwFg)
++ [Thinking on ways to solve TOASTS](https://www.youtube.com/watch?v=R75ZVW4LW5o)
