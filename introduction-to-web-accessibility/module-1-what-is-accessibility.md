@@ -106,6 +106,7 @@ Applications that do not embrace the *fluid* nature of **Web Design** can have c
 ![custom Chrome Dev Tools code snippet](https://user-images.githubusercontent.com/15273233/152716966-e05db780-b3df-4b17-b463-6e9aa9dc787a.png)
 
 **Note:** you can also use [the Chrome Extension **Stylus**](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) to inject CSS onto a page.
++ [See here for an example of Stylus](https://www.youtube.com/watch?v=Nv_ovvmHYsg)
 
 ## Visual Disabilities are Broad
 
@@ -125,7 +126,7 @@ Applications that do not embrace the *fluid* nature of **Web Design** can have c
 # Audio Descriptions
 Extra audio injected into a video to convey missing context:
 
-**Example:** A video might start with two character talking about their plans for the weekend. An audio description would set the scene that would typically be inferred through visual context *"A woman and a man are talking in a bar after work"*.
+**Example:** A video might start with two characters talking about their plans for the weekend. An audio description would set the scene that would typically be inferred through visual context *"A woman and a man are talking in a bar after work"*.
 
 <br />
 <br />
