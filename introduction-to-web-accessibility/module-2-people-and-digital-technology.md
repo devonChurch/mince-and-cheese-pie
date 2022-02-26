@@ -150,6 +150,10 @@ Content changing outside of a users "visual scope" (common with zoom).
 
 **Note:** Users with **Sign Language** as their first language may find written text formats hard to digest.
 
+### Open -vs- Closed Captions
++ **Open:** Are "baked" into the video (are always on and static in their appearance)
++ **Closed:** An "overlay" on top of the video (and be toggled on/off)
+
 ## Speech Disabilities
 Limits the interaction with voice systems like Siri and Alexa.
 
